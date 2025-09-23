@@ -2,16 +2,16 @@ uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	col
 32	Boston C.	B.C	14	0	1	0	$ffd700	$cc0000	$ffd700	$ffffff	3	1	0	0	0	0	40	89	0	33	1	0	MA	y:1:0000
 33	Clemson	CLM	14	0	1	0	$ffa800	$ffa800	$ffffff	$ffffff	7	7	0	0	0	0	44	2	0	148	0	0	SC	y:1:1110
 34	Durham	DUR	14	0	1	0	$6666ff	$6666ff	$6666ff	$ffffff	6	7	0	0	0	0	44	2	0	40	2	0	NC	y:1:0000
-35	Florida S.	FLS	14	0	1	0	$ffd700	$990000	$ffd700	$ceb888	7	8	0	0	0	0	50	0	0	38	0	0	FL	y:1:0000
-36	Georgia T.	GAT	14	0	1	0	$ffd700	$ffd700	$ffffff	$000000	4	1	0	0	0	0	51	1	0	142	1	0	GA	y:1:0000
+35	Florida State	FLS	14	0	1	0	$ffd700	$990000	$ffd700	$ceb888	7	8	0	0	0	0	50	0	0	38	0	0	FL	y:1:0000
+36	Georgia Tech	GAT	14	0	1	0	$ffd700	$ffd700	$ffffff	$000000	4	1	0	0	0	0	51	1	0	142	1	0	GA	y:1:0000
 37	Louisville	LOU	14	0	1	0	$ffffff	$999900	$ffffff	$ffffff	8	4	0	0	0	0	0	0	0	143	0	0	KY	y:1:0000
-38	Miami F.	MIF	14	0	1	0	$ffffff	$ffa800	$ffffff	$005030	5	3	0	0	0	0	59	0	0	35	0	0	FL	y:1:0000
+38	Miami FL	MIF	14	0	1	0	$ffffff	$ffa800	$ffffff	$005030	5	3	0	0	0	0	59	0	0	35	0	0	FL	y:1:0000
 39	N.C. S.	NCS	14	0	1	0	$ffffff	$660000	$ffffff	$000000	8	3	0	0	0	0	44	2	0	40	0	0	NC	y:1:0000
 40	N. Carolina	N.C	14	0	1	0	$0099cc	$0099cc	$0099cc	$ffffff	3	7	0	0	0	0	44	2	0	34	0	0	NC	y:1:0000
 41	Pittsburgh	PIT	14	0	1	0	$ffff00	$990099	$ffff00	$003594	7	6	0	0	0	0	38	27	0	77	1	0	PA	y:1:0000
 42	Syracuse	SYR	14	0	1	0	$ff0000	$000099	$ff0000	$000000	6	5	0	0	0	2	40	65	0	-1	0	0	NY	y:1:0000
 43	Virginia	VA.	14	0	1	0	$ffffff	$000099	$ffffff	$f84c1e	6	1	0	0	0	0	43	1	0	44	1	0	VA	y:1:0000
-44	Virginia T.	VAT	14	0	1	0	$cc0000	$cc0000	$ffffff	$cf4420	5	2	0	0	0	0	38	1	0	43	0	0	VA	y:1:0000
+44	Virginia Tech	VAT	14	0	1	0	$cc0000	$cc0000	$ffffff	$cf4420	5	2	0	0	0	0	38	1	0	43	0	0	VA	y:1:0000
 45	Winston S.	W.S	14	0	1	0	$ffd700	$000000	$ffd700	$ffffff	4	8	0	0	0	0	44	1	0	40	1	0	NC	y:1:0000
 46	Cincinnati	CIN	4	0	1	0	$000000	$000000	$000000	$ffffff	7	5	0	0	0	0	42	14	0	109	0	0	OH	y:1:0001
 47	E. Carolina	E.C	3	0	1	0	$000099	$000099	$ffff00	$fdc82f	4	7	0	0	0	0	50	0	0	-1	0	0	NC	y:1:0000
