@@ -7,8 +7,8 @@ msg_co_draft_notpick	$playername ($position) did not get drafted.##You receive $
 msg_co_draft_nottrydraft_y3	$playername ($position) (Ju) is not declaring for the draft and will return to $teamname for his Senior Year.
 msg_co_draft_early_y3	$playername ($position) (Ju) feels like he is ready to declare for the draft early! Do you want to encourage him to declare?##You can receive double the donations to the Scholarship Fund for players who declare early.##If you don't encourage him he will return to the team to play for the next season.
 
-ui_DraftCollege	Pro#Draft
-msg_TimeForProDraft	The College football season is over and your Senior and Junior star players are preparing to declare for the Pro Draft.
+ui_DraftCollege	Signing#Day
+msg_TimeForProDraft	The Highschool football season is over and your players are preparing to go to their colleges! After all its National Signing Day.
 
 ui_ExceedRecruitmentCredits	There is not enough left in the Scholarship Fund to recruit $playername.##You have $$num,000 remaining.
 
@@ -1034,5 +1034,6 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
 
 
