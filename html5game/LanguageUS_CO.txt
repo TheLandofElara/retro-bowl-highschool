@@ -267,16 +267,16 @@ ui_beat	beat
 
 ui_TradePlayer	Cut Player
 ui_Draft	Freshman#Admiss'ns
-ui_DraftRound	College Admissions
+ui_DraftRound	Varsity Admissions
 ui_SignPlayer	Recruit Player
-msg_SignPlayer	Do you want to recruit $position $playername?
-msg_SignRookie	Do you want to recruit Freshman $playername as a $position?
+msg_SignPlayer	Do you want to tryout $position $playername?
+msg_SignRookie	Do you want to tryout Freshman $playername as a $position?
 msg_CannotSign1	You already have a $position.##You will need to cut the $position from your roster if you want to recruit $playername.
 msg_CannotSign2	You already have $num players for the $position position.##You will need to cut someone from your roster if you want to recruit $playername.
 ui_Sign	Recruit
 info_StarPlayers	These are your key players - the student athletes that make a real difference on game day. You can have up to 10 key players. (You can increase the limit to 12 players in the options if you prefer, and increase the upper limit of the Scholarship Fund at the same time.)##The rest of your squad do not have star ratings and are hidden. Their contribution towards the overall offense and defense ratings is dependent on the coordinator ratings.
 info_StarPlayers12	These are your key players - the student athletes that make a real difference on game day. You can have up to 12 key players.##The rest of your squad do not have star ratings and are hidden. Their contribution towards the overall offense and defense ratings is dependent on the coordinator ratings.
-info_Draft	It's time for College Admissions! You can spend the institution's Football SCHOLARSHIP FUND to recruit new Freshmen athletes to replace any key players who left at the end of the previous year.##Choose wisely! You will need to scout players in order to reveal more details about them, and each time you recruit a new athlete the number of remaining prospects will be reduced.##Once recruiting is over you will not be able to choose any more new players until the start of next year's season!
+info_Draft	It's time for Varsity Admissions! You can spend the institution's Football SCHOLARSHIP FUND to recruit new Freshmen athletes to replace any key players who left at the end of the previous year.##Choose wisely! You will need to scout players in order to reveal more details about them, and each time you recruit a new athlete the number of remaining prospects will be reduced.##Once recruiting is over you will not be able to choose any more new players until the start of next year's season!
 info_Draft2	New Admissions Rules!##You now need to scout Freshman players if you wish to reveal their potential. You do this via their profile page. The number of players you can scout per admissions process is limited.
 ui_FreeAgents	Walk-On Athlete
 news_PlayerRetiringNoTag	$position $playername will graduate at the end of the season. He is not tagged for the Yearbook.
@@ -1034,6 +1034,7 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
 
 
 
