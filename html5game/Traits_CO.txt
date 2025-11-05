@@ -1,2 +1,11 @@
 uid	name
 0	No Trait
+1	Agile
+2	Strong
+3	Creative
+4	Inquisitive
+5	Empathetic
+6	Detail-Oriented
+7	Resilient
+8	Analytical
+9	Visionary
