@@ -12,11 +12,11 @@ msg_TimeForProDraft	The College football season is over and your Senior and Juni
 
 ui_ExceedRecruitmentCredits	There is not enough left in the Scholarship Fund to recruit $playername.##You have $$num,000 remaining.
 
-ui_co_Draft_NotPicked	Not Picked
+ui_co_Draft_NotPicked	Juco
 ui_co_Draft_R1	D1
 ui_co_Draft_R2	D2
 ui_co_Draft_R3	D3
-ui_co_Draft_Graduate	GRADUATE
+ui_co_Draft_Graduate  Test
 ui_co_Draft_SrYear	SR. YEAR
 
 ui_Year_Short	Yr
@@ -1035,3 +1035,4 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
