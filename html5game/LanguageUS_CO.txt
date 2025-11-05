@@ -13,9 +13,9 @@ msg_TimeForProDraft	The College football season is over and your Senior and Juni
 ui_ExceedRecruitmentCredits	There is not enough left in the Scholarship Fund to recruit $playername.##You have $$num,000 remaining.
 
 ui_co_Draft_NotPicked	Not Picked
-ui_co_Draft_R1	R1
-ui_co_Draft_R2	R2
-ui_co_Draft_R3	R3
+ui_co_Draft_R1	D1
+ui_co_Draft_R2	D2
+ui_co_Draft_R3	D3
 ui_co_Draft_Graduate	GRADUATE
 ui_co_Draft_SrYear	SR. YEAR
 
@@ -29,8 +29,8 @@ msg_NewSeasonCollege_Zero	A new season begins!
 
 msg_MeetingGPANotNeeded	The academic tutor believes that $playername is already attaining the highest possible GPA he can achieve.
 
-ui_Major	MAJOR
-ui_Minor	MINOR
+ui_Major	Conf.
+ui_Minor	Leagues
 ui_OrientationWeek	CAMPUS SOCIETY
 ui_Hometown	HOMETOWN
 
@@ -1032,5 +1032,6 @@ ui_NeutralSite	Neutral Site
 
 ui_JuniorSenior	Junior/Senior
 msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not participate in any games during the Postseason.##If you want to compete in Postseason games then you need to take a coaching job in a different Conference.##Job offers to coach other teams may appear before the next season begins.  
+
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
