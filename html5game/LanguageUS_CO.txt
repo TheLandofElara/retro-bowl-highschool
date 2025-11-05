@@ -22,9 +22,9 @@ ui_Year_Short	Yr
 
 msg_CollegeProDraftRC_NoSpace	The Scholarship Fund is now filled - you have received $$num,000 out of the $$maxNum,000 donated by players leaving your team, and the rest has been diverted to other College programs.##You can use Coaching Credits to increase the upper limit of the Football Scholarship Fund by visiting the Athletics Office.
 
-msg_NewSeasonCollege	A new season begins!##On top of any donations from your graduating players you have received a further $$num,000 from the annual alumni endowments to help you recruit new star players with this year's freshman class.
-msg_NewSeasonCollege_NoSpace	A new season begins!##On top of any donations from your graduating players you have received a further $$num,000 from the annual alumni endowments to help you recruit new star players with this year's freshman class.
-msg_NewSeasonCollege_Zero	A new season begins!
+msg_NewSeasonCollege	A new season begins!##On top of any donations from your graduating players you have received a further $$num,000 from your school district endowments to help you recruit new varsity players with this year's freshman class.
+msg_NewSeasonCollege_NoSpace	A new season begins!##On top of any donations from your graduating players you have received a further $$num,000 from your school district endowments to help you recruit new varsity players with this year's freshman class.
+msg_NewSeasonCollege_Zero	A new highschool season begins!
 
 msg_MeetingGPANotNeeded	The academic tutor believes that $playername is already attaining the highest possible GPA he can achieve.
 
@@ -34,10 +34,10 @@ ui_OrientationWeek	CAMPUS SOCIETY
 ui_Hometown	HOMETOWN
 
 ui_Undeclared	Undeclared
-ui_AdmissionsDraftConfirm	If you finish the Admissions process, you will not be able to choose new players for the team until the season is complete and the next year's Admissions begin.##If you have recruited all the freshman players that you need, then you can continue. 
+ui_AdmissionsDraftConfirm	Once the official high school admissions or open enrollment period closes, your roster for the incoming freshman class is locked. You will have no opportunity to add new, targeted freshmen until the next academic year.
 
-ui_FraternityRush	Fraternity Rush
-ui_Admissions_Warn_Once	Remember that other colleges will be making admissions offers to the same candidates!##Each time you recruit a new athlete the number of remaining prospects will be reduced.
+ui_FraternityRush	Varsity Admissions
+ui_Admissions_Warn_Once	The pool of available prospects is finite and shrinking. Every time you secure a commitment, you reduce the available talent pool, but critically, every time a competitor secures a commitment, they are also removing a potential target from your list.
 
 msg_Suspended	$playername ($position) has been suspended because of his low grades.
 
@@ -226,7 +226,7 @@ choice_GPAUpResultMsg	Remember! The rest of the team will be annoyed if one play
 
 msg_RosterLimitAllFreshman	You have reached the roster limit and you are not allowed to revoke Admissions offers which you have already made to this year's Freshman class. You cannot cut or sign any more players. Please start the new season.
 
-ui_WalkOnStudent	Walk-On Athlete
+ui_WalkOnStudent	Walk-On
 ui_WalkOnStudentOffer	Coach $coachname has identified a walk-on player who could be useful to your team.##$playername may have what it takes to be an effective $position. Do you want to meet with him?
 
 // Moved from main file 
@@ -246,8 +246,8 @@ ui_Unsuspend	Lift suspension
 msg_suspended	$playername has been placed on Academic Suspension.##Suspended players will be unavailable for games while they are studying to improve their GPA.
 
 ui_Recruitment_Credits	RECRUITMENT CREDITS
-ui_ScolarshipFund	S'SHIP FUND
-ui_ScolarshipFund_Full	SCHOLARSHIP FUND
+ui_ScolarshipFund	PROGRAM FUND
+ui_ScolarshipFund_Full	PROGGRAM FUND
 sla_Thousand	k
 ui_NewDonations	NEW DONATIONS
 ui_increase	Raise Limit
@@ -336,7 +336,7 @@ choice_IgnoreFine	Ignore#Incident
 choice_FinePlayer	Discipline#Player
 btn_HallOfFame	Yearbook
 ui_HallOfFame	Yearbook
-ui_FavouriteTeam	Favorite College
+ui_FavouriteTeam	Favorite School
 msg_StoreReview	Would you like to rate and review Retro Bowl College on the store?
 tip_17	Coaching Credit isn't cash, it's kudos - it represents how much respect you have from the faculty, team and fans
 tip_27	If you keep ignoring players' needs put themselves in situations which would end their College Football career!
@@ -1034,6 +1034,7 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
 
 
 
