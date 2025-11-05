@@ -16,9 +16,8 @@ ui_co_Draft_NotPicked	Juco
 ui_co_Draft_R1	D1
 ui_co_Draft_R2	D2
 ui_co_Draft_R3	D3
-ui_co_Draft_Graduate  Test
-ui_co_Draft_SrYear	SR. YEAR
-
+ui_co_Draft_Graduate  Uncommited
+ui_co_Draft_SrYear	Uncommited
 ui_Year_Short	Yr
 
 msg_CollegeProDraftRC_NoSpace	The Scholarship Fund is now filled - you have received $$num,000 out of the $$maxNum,000 donated by players leaving your team, and the rest has been diverted to other College programs.##You can use Coaching Credits to increase the upper limit of the Football Scholarship Fund by visiting the Athletics Office.
@@ -1035,4 +1034,5 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
 
