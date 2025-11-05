@@ -8,9 +8,9 @@ msg_co_draft_nottrydraft_y3	$playername ($position) (Ju) is not declaring for th
 msg_co_draft_early_y3	$playername ($position) (Ju) feels like he is ready to declare for the draft early! Do you want to encourage him to declare?##You can receive double the donations to the Scholarship Fund for players who declare early.##If you don't encourage him he will return to the team to play for the next season.
 
 ui_DraftCollege	Signing#Day
-msg_TimeForProDraft	The Highschool football season is over and your players are preparing to go to their colleges! After all its National Signing Day.
+msg_TimeForProDraft	The Highschool football season is over and your players are preparing to go to off college! After all its National Signing Day.
 
-ui_ExceedRecruitmentCredits	There is not enough left in the Scholarship Fund to recruit $playername.##You have $$num,000 remaining.
+ui_ExceedRecruitmentCredits	There is not enough left in the Program Fund to recruit $playername.##You have $$num,000 remaining.
 
 ui_co_Draft_NotPicked	Juco
 ui_co_Draft_R1	D1
@@ -67,7 +67,7 @@ dilemma_ByeWeek13	It's your bye week. Do you want to attend a fundraiser for nex
 dilemma_ByeWeek14	It's your bye week. Do you want to attend a fundraiser for next year's scholarships or do some work with your coaching staff?-choice_FocusRC-choice_FocusCoaches
 dilemma_ByeWeek15	It's your bye week. Do you want the team to talk to alumni about raising funds for next year's scholarships, or to focus on their academic study?-choice_FocusRC-choice_FocusGPA
 
-choice_FocusRC_bonus	2
+choice_FocusRC_bonus	5
 
 choice_FocusGPA	Study#Time
 choice_FocusRC	Raise#Funds
@@ -1034,6 +1034,7 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
 
 
 
