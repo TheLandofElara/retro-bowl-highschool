@@ -1,4 +1,4 @@
-ui_Version_Mode	College
+ui_Version_Mode	Highschool
 
 
 
@@ -1034,6 +1034,7 @@ msg_AcademicSeasonEnd	Your college plays in a conference whose teams do not part
 
 
 info_coachtrait_9	Scout 3 extra players during College Admissions.
+
 
 
 
