@@ -780,7 +780,7 @@ ui_Close	Close
 btn_RestorePurchases	Restore#Purchases
 ui_Connecting	Connecting...
 ui_FavouriteTeam	Favorite Team
-msg_Welcome_CO	Welcome to Retro Bowl College!##You are about to start your first season as the head coach of a college football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
+msg_Welcome_CO	Welcome to Retro Bowl Highschool!##You are about to start your first season as the head coach of a highschool football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 
 msg_Welcome	Welcome to Retro Bowl!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 msg_LimitedVersion	*** Limited Version - $num games remaining ***
@@ -1353,7 +1353,7 @@ msg_NegotiateNo_TooEarly	The owner does not want to negotiate a new contract thi
 msg_AgentRequestContract	Your agent informs you that $teamname would be will to discuss a contract extension.
 
 ui_Version_Mode	Franchise
-ui_CO_Label	College
+ui_CO_Label	Highschool
 ui_QB_Label	Quarterback
 ui_FR_Label	Franchise
 
@@ -1416,4 +1416,5 @@ aa_game_Title	Retro Bowl+
 aa_msg_Welcome	Welcome to Retro Bowl+!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 aa_msg_Update	Welcome to Retro Bowl+!
 aa_info_StartWithFave	Retro Bowl+ is a game all about building a legacy. If you choose to start with your favorite team that's fine but the story of your career will be a simple one.##Why not start out at a low ranked team and prove yourself before receiving that dream offer from your favorite team?
+
 
