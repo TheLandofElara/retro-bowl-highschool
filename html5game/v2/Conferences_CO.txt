@@ -30,4 +30,4 @@ uid	name	tla	div_0_name	div_1_name	tier	divisions	active	real_life_tier_name	rea
 35	Littoral	Lit	Littoral	Not Used	2	1	1	FCS	Coastal (formerly Colonial)	1	end_season
 36	Big Valley	Val	Big Valley	Not Used	2	1	1	FCS	Big South-OVC	1	end_season
 37	Unified	Uni	Unified	Not Used	2	1	1	FCS	United Athletic	1	end_season
-38	Independents	Ind	Independents	Not Used	2	1	1	FCS	Independents	0	no_completion
+38	Atlantic	Atl	A	C	1	1	1	JUCO	Atlantic Coast	3	champ
